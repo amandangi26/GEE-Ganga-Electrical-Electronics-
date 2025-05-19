@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+  overflow-x: hidden;
+}
+
+/* html, body {
+  height: auto;
+  min-height: max-content;
+  overflow-x: sc;
+} */
+
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+  max-height: 100vh;
+}
+
+.text-viewport-width {
+  font-size: 7vmax; /* Adjust the '5' to control the scaling factor */
+}
+
+.img{
+
+  object-fit: cover;
+  object-position: top;
+  height: 15rem;
+}
