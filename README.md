@@ -1,6 +1,6 @@
-# GEE (Global Education Exchange) Platform
+# GEE (GEE-Ganga-Electrical-Electronics) Platform
 
-A comprehensive educational platform built with modern web technologies, featuring separate user and admin interfaces for enhanced educational management and learning experiences.
+A comprehensive e-eommerce platform built with modern web technologies, featuring separate user and admin interfaces for startups.
 
 ## 🚀 Features
 
@@ -144,10 +144,6 @@ npm test
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
